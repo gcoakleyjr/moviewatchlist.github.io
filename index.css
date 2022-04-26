@@ -342,3 +342,10 @@ h2 {
 ::-webkit-scrollbar-thumb:hover {
     background: #028097;
 }
+
+@media screen and (max-width: 915px) {
+    main {
+        height: 100vh;
+        margin: 0 auto;
+    }
+}
