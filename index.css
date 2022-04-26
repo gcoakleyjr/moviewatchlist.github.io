@@ -223,7 +223,7 @@ h1:hover {
 .content-box .movie-image {
     width: 100px;
     margin-right: 20px;
-    cursor: pointer;
+    height: 166px
 }
 
 .start-exploring,
